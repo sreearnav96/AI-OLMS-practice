@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    <h1>Available Courses</h1>
+    <h1>Available Courses truee</h1>
 
     <ul>
         <li>Java Programming</li>
