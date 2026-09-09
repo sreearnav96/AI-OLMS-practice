@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    <h1>Available Courses</h1>
+    <h1>Available Courses Recommendation</h1>
 
     <ul>
         <li>Java Programming</li>
